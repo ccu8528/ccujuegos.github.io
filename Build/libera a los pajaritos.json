@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "libera a los pajaritos.data.unityweb",
+"asmCodeUrl": "libera a los pajaritos.asm.code.unityweb",
+"asmMemoryUrl": "libera a los pajaritos.asm.memory.unityweb",
+"asmFrameworkUrl": "libera a los pajaritos.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
